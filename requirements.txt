@@ -1,4 +1,4 @@
 Flask==2.0.1
 pyaudio==0.2.11
 wave
-os
+#os
